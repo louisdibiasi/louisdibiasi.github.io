@@ -2,7 +2,7 @@
 
 My personal site. Plain HTML, CSS and a little JavaScript, no build step.
 
-Live at https://louisdibiasi.is-a.dev (soon).
+Live at https://louisdibiasi.is-a.dev.
 
 To run it locally:
 
